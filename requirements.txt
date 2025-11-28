@@ -1,6 +1,8 @@
 fastapi
 uvicorn
-gradio
+gradio<6.0.0
 joblib
-scikit-learn==1.2.2
+scikit-learn
 pydantic
+plotly
+pandas
